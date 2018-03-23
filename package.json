@@ -1,0 +1,19 @@
+{
+  "name": "@cedarplus/cedar-plus-chian-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chian123/cedar-plus-chian-button.git"
+  },
+  "author": "Chian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chian123/cedar-plus-chian-button/issues"
+  },
+  "homepage": "https://github.com/Chian123/cedar-plus-chian-button#readme"
+}
